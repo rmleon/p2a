@@ -1,6 +1,8 @@
 # Introduction
 
-Just a simple project to check out Glue42 / Interop.io
+Just a simple project to check out Glue42 / Interop.io.
+
+
 The main window opens two child windows. The first child controls the financial instrument displayed in the second child.
 
 
